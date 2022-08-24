@@ -1,0 +1,3 @@
+tbash encryption uses a substitution alphabet and its reciprocal, a combination of the normal alphabet and its reverse alphabet (mirrored).
+
+Example: The latin alphabet ABCDEFGHIJKLMNOPQRSTUVWXYZ and its reverse: ZYXWVUTSRQPONMLKJIHGFEDCBA are combine in the substitution table:
