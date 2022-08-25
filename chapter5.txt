@@ -1,0 +1,9 @@
+Note: It also includes resources for YUL, EVM bytecode & solidity assembly to level up your game. Also, I am assuming you have a basic understanding of solidity.
+
+Dig into advanced solidilty github repos. Learn from the best
+1. Solmate by T11s (https://lnkd.in/ds6-WBMa)
+2. Seaport by OpenSea (https://lnkd.in/dZ5qYSFr)
+3. PRB-Math by Paul R Berg. (https://lnkd.in/d8RbDmWa)
+4. Proxy & Cryptography + Merkle root by OpenZeppelin (https://lnkd.in/die2jUEp, https://lnkd.in/dY6qHhWm)
+5. Upgradeable Contracts by OpenZeppelin (https://lnkd.in/dQ25bUHJ)
+
